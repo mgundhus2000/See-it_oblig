@@ -1,0 +1,608 @@
+/* Responsiv css */
+@media screen and (max-width:2561px) and (min-width: 1771px) {
+  .header {
+    height: 180px;
+  }
+
+  .logo img {
+    width: 140px;
+    height: 140px;
+    margin-top: 20px;
+  }
+
+  .menu>ul>li {
+    margin-top: 50px;
+    padding-right: 20px;
+  }
+
+  .menu>ul>li>a {
+    font-size: 30px;
+  }
+
+  .sub-menu {
+    width: 450px;
+  }
+
+  #sub-menu-edge {
+    width: 280px;
+  }
+
+  .sub-menu li {
+    font-size: 30px;
+    padding-top: 25px;
+  }
+
+  .MainTitle h1 {
+    font-size: 170px;
+    top: 30%;
+  }
+
+  .MainTitle h2 {
+    font-size: 140px;
+    top: 20%;
+  }
+
+  .YourFitTitle h1 {
+    font-size: 150px;
+  }
+
+  .YourFitTitle h2 {
+    font-size: 90px;
+  }
+
+  .grid33 {
+    max-width: 1500px;
+    overflow-x: hidden;
+  }
+
+  .gallery {
+    width: 500px;
+    height: 450px;
+  }
+
+  .desc {
+    width: 100%
+  }
+
+  .desc a {
+    font-size: 32px;
+  }
+
+  .VideoUAT {
+    width: 100%;
+  }
+
+  .nested-container {
+    width: 1000px;
+    ;
+    height: 1340px;
+  }
+
+  .card img {
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+
+  .card h3 {
+    font-size: 32px;
+    margin-left: 50px;
+  }
+
+  .back li {
+    padding-top: 20px;
+  }
+
+  .back li a {
+    font-size: 35px;
+  }
+
+  .news {
+    height: 447px;
+  }
+
+  .news h3 {
+    padding-top: 20px;
+    font-size: 35px;
+  }
+
+  .news h4 a {
+    font-size: 25px;
+  }
+
+  .seperator {
+    height: 447px;
+  }
+
+  .announcement {
+    height: 447px;
+  }
+
+  .announcement h3 {
+    padding-top: 20px;
+    font-size: 35px;
+  }
+
+  .announcement h4 a {
+    font-size: 25px;
+  }
+
+  .footer {
+    height: 600px;
+  }
+
+  .footer .footer-content {
+    height: 600px;
+  }
+
+  .footer .footer-content h1, .footer .footer-content h2 {
+    font-size: 52px;
+  }
+
+  .footer .footer-content .about h1 span {
+    font-size: 52px;
+  }
+
+  .footer-section li {
+    font-size: 30px;
+  }
+
+  .footer-section p {
+    padding-top: 80px;
+    font-size: 30px;
+  }
+
+  .fa-icon1 {
+    display: none;
+  }
+
+  .fa-icon2 {
+    display: block;
+  }
+}
+
+@media screen and (max-width:1770px) and (min-width: 1441px) {
+  .header {
+    height: 150px;
+  }
+
+  .logo img {
+    width: 120px;
+    height: 120px;
+    margin-top: 15px;
+  }
+
+  .menu>ul>li {
+    margin-top: 50px;
+    padding-right: 14px;
+  }
+
+  .menu>ul>li>a {
+    font-size: 23px;
+  }
+
+  .sub-menu {
+    width: 400px;
+  }
+
+  #sub-menu-edge {
+    width: 200px;
+  }
+
+  .sub-menu li {
+    font-size: 23px;
+    padding-top: 20px;
+  }
+
+  .MainTitle h1 {
+    font-size: 130px;
+    top: 23%;
+  }
+
+  .MainTitle h2 {
+    font-size: 110px;
+    top: 15%;
+  }
+
+  .YourFitTitle h1 {
+    font-size: 110px;
+  }
+
+  .YourFitTitle h2 {
+    font-size: 65px;
+  }
+
+  .grid33 {
+    max-width: 1200px;
+    overflow-x: hidden;
+  }
+
+  .gallery {
+    width: 400px;
+    height: 400px;
+  }
+
+  .desc {
+    width: 100%
+  }
+
+  .desc a {
+    font-size: 25px;
+  }
+
+  .VideoUAT {
+    width: 100%;
+  }
+
+  .nested-container {
+    width: 770px;
+    ;
+    height: 1000px;
+  }
+
+  .card img {
+    width: 120px;
+    height: 120px;
+    margin-left: 35px;
+    margin-top: 25px;
+  }
+
+  .card h3 {
+    font-size: 28px;
+    margin-left: 30px;
+  }
+
+  .back li {
+    padding-top: 10px;
+  }
+
+  .back li a {
+    font-size: 22px;
+  }
+
+  .news {
+    height: 333px;
+  }
+
+  .news h3 {
+    padding-top: 15px;
+    font-size: 27px;
+  }
+
+  .news h4 a {
+    font-size: 20px;
+  }
+
+  .seperator {
+    height: 333px;
+  }
+
+  .announcement {
+    height: 333px;
+  }
+
+  .announcement h3 {
+    padding-top: 15px;
+    font-size: 27px;
+  }
+
+  .announcement h4 a {
+    font-size: 20px;
+  }
+
+  .footer {
+    height: 600px;
+  }
+
+  .footer .footer-content {
+    height: 600px;
+  }
+
+  .footer .footer-content h1, .footer .footer-content h2 {
+    font-size: 52px;
+  }
+
+  .footer .footer-content .about h1 span {
+    font-size: 52px;
+  }
+
+  .footer-section li {
+    font-size: 30px;
+  }
+
+  .footer-section p {
+    padding-top: 80px;
+    font-size: 30px;
+  }
+
+  .fa-icon1 {
+    display: none;
+  }
+
+  .fa-icon2 {
+    display: block;
+  }
+}
+
+@media screen and (max-width:1100px) {
+  .logo img {
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+  }
+
+  .menu ul {
+    padding-left: 5px;
+  }
+
+  .menu>ul>li {
+    margin-top: 18px;
+    padding-right: 3px;
+  }
+
+  .menu>ul>li>a {
+    font-size: 14px;
+  }
+
+  .sub-menu {
+    width: 200px;
+  }
+
+  #sub-menu-edge {
+    width: 150px;
+  }
+
+  .sub-menu li {
+    font-size: 14px;
+    padding-top: 10px;
+  }
+
+  .MainTitle h1 {
+    font-size: 90px;
+    top: 23%;
+  }
+
+  .MainTitle h2 {
+    font-size: 70px;
+    top: 15%;
+  }
+
+  .news h3 {
+    padding-top: 5px;
+    font-size: 18px;
+  }
+
+  .news h4 {
+    margin: 10px;
+  }
+
+  .news h4 a {
+    font-size: 14px;
+  }
+
+  .announcement h3 {
+    padding-top: 5px;
+    font-size: 18px;
+  }
+
+  .announcement h4 {
+    margin: 10px;
+  }
+
+  .announcement h4 a {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width:900px) {
+  .header h4 {
+    z-index: 2;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .logo {
+    position: absolute;
+    left: 88%;
+  }
+
+  .drop-down {
+    display: block;
+  }
+
+  .mobile-menu {
+    padding: 0;
+  }
+
+  .drop-down:hover+.mobile-menu {
+    display: block;
+  }
+
+  .grid-container2 {
+    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #Video-grid {
+    display: none;
+  }
+
+  .nested-container {
+    flex: 1;
+  }
+
+  .grid-item_m {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    margin: 50px 100px;
+  }
+
+  .news {
+    width: 300px;
+    flex: 1;
+  }
+
+  .seperator {
+    height: 100px;
+    width: 100px;
+    flex: 0.2;
+  }
+
+  .announcement {
+    width: 300px;
+    flex: 1;
+  }
+}
+@media screen and (max-width:769px) {
+  .logo {
+    left: 83%;
+  }
+  .MainTitle h1 {
+    font-size: 55px;
+    top: 23%;
+  }
+
+  .MainTitle h2 {
+    font-size: 40px;
+    top: 15%;
+  }
+  .grid33 {
+    height: 400px;
+    max-width: 420px;
+    overflow-x: hidden;
+  }
+  .gallery {
+    width: 140px;
+    height: 200px;
+  }
+  .gallery a {
+    font-size: 12px;
+  }
+  .nested-container {
+    width: 500px;
+    height: 700px;
+  }
+  .back h3 {
+    font-size: 15px;
+  }
+  .news h3 {
+    font-size: 15px;
+  }
+  .announcement h3 {
+   font-size: 15px;
+  }
+  footer h1 {
+    font-size: 20px;
+  }
+  footer a {
+    font-size: 15px;
+  }
+  footer p {
+    font-size: 14px;
+    margin: 0;
+  }
+}
+@media screen and (max-width:500px) {
+  .logo {
+    left: 75%;
+  }
+  .logo img {
+    margin-top: 12px;
+    width: 60px;
+    height: 60px;
+  }
+  .MainTitle h1 {
+    font-size: 35px;
+    top: 21%;
+  }
+
+  .MainTitle h2 {
+    font-size: 35px;
+    top: 13%;
+  }
+  .YourFitTitle h1 {
+    font-size: 45px;
+  }
+
+  .YourFitTitle h2 {
+    font-size: 30px;
+  }
+  .grid33 {
+    display: flex;
+    flex-direction: column;
+    height: 1500px;
+  }
+  .gallery {
+    flex: 1;
+    width: 100%;
+  }
+  .gallery a {
+    font-size: 17px;
+  }
+  .desc {
+    width: 100%;
+  }
+  .nested-container {
+    grid-template-columns: auto;
+    width: 300px;
+    height: 1500px;
+  }
+  .front img {
+    margin-left: 25px;
+  }
+  .front h3 {
+    margin-left: 25px;
+  }
+  .back h3 {
+    margin-left: 30px;
+  }
+  .back li {
+    margin-left: 30px;
+  }
+  .grid-item_m {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+  }
+  .news {
+    margin-top: 50px;
+    width: 200px;
+    flex: 1;
+  }
+  .announcement {
+    margin-top: 50px;
+    width: 200px;
+    flex: 1;
+  }
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-content h1 {
+    text-decoration: underline;
+  }
+  #box1 {
+    flex: 1;
+    background-color: #333;
+    height: 300px;
+  }
+  .fa-icon1 {
+    width: 200px;
+    margin: 0 auto;
+  }
+  #box2 {
+    flex: 1;
+    background-color: #333;
+    height: 300px;
+  }
+  #box3 {
+    flex: 1;
+    background-color: #333;
+    height: 300px;
+  }
+}
