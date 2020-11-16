@@ -125,7 +125,7 @@ body {
   width: 80%;
   height: 80%;
   transform-style: preserve-3d;
-  transition: all 1.0s ease;
+  transition: all 0.5s ease;
 }
 .card:hover {
   transform: rotateY(180deg);
@@ -137,7 +137,6 @@ body {
   height: 100%;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
-z-index: 1;
 }
 .front h3 {
   font-weight: 100;
@@ -149,7 +148,6 @@ z-index: 1;
   height: 100%;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
-  z-index: 0;
   transform: rotateY(180deg);
   text-align: center;
 }
