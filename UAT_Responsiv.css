@@ -417,7 +417,7 @@
     padding: 0;
   }
 
-  .drop-down:hover+.mobile-menu {
+  .drop-down:hover .mobile-menu {
     display: block;
   }
 
