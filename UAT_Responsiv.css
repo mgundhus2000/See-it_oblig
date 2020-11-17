@@ -81,13 +81,11 @@
   .card img {
     width: 150px;
     height: 150px;
-    margin-left: 50px;
     margin-top: 50px;
   }
 
   .card h3 {
-    font-size: 32px;
-    margin-left: 50px;
+    font-size: 35px;
   }
 
   .back li {
@@ -95,7 +93,7 @@
   }
 
   .back li a {
-    font-size: 35px;
+    font-size: 32px;
   }
 
   .news {
@@ -244,13 +242,12 @@
   .card img {
     width: 120px;
     height: 120px;
-    margin-left: 35px;
+    margin-left: 5px;
     margin-top: 25px;
   }
 
   .card h3 {
     font-size: 28px;
-    margin-left: 30px;
   }
 
   .back li {
@@ -366,6 +363,13 @@
   .MainTitle h2 {
     font-size: 70px;
     top: 15%;
+  }
+
+  .card img {
+    margin-left: 10px;
+  }
+  .card h3 {
+    margin-left: 10px;
   }
 
   .news h3 {
@@ -552,17 +556,17 @@
     width: 300px;
     height: 1500px;
   }
-  .front img {
-    margin-left: 25px;
+  .card img {
+    margin-left: 10px;
   }
-  .front h3 {
-    margin-left: 25px;
+  .card h3 {
+    margin-left: 10px;
   }
   .back h3 {
-    margin-left: 30px;
+    margin-left: 5px;
   }
   .back li {
-    margin-left: 30px;
+    margin-left: 5px;
   }
   .grid-item_m {
     display: flex;
